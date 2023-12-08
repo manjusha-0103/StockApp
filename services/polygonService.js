@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const apiKey = 'WNhpxssvMPoRbb8EFbplQTIohgyUix3K';
+const apiKey = 'USE YOUR API KEY';
 
 export const fetchStocks = async (n) => {
   try {
